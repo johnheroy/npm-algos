@@ -21,6 +21,7 @@
 - [Trie](https://www.npmjs.com/package/trie-data-structure)
 - [Quadtree](https://www.npmjs.com/package/simple-quadtree)
 - [Queue](https://www.npmjs.com/package/queue)
+- [Data Structures](https://github.com/johnheroy/js-data-structures)
 
 
 ## Functional
@@ -59,7 +60,7 @@
 - [Merge Sort](https://www.npmjs.com/package/mergesort)
 - [Selection Sort](https://www.npmjs.com/package/selectionsort)
 - [Shellsort](https://www.npmjs.com/package/shellsort)
-
+- [Quicksort + other sorting algorithms](https://github.com/johnheroy/js-sorting-algorithms)
 
 
 ## Miscellaneous
